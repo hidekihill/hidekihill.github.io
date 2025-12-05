@@ -3,7 +3,7 @@ title:               H
 tagline:             'None'
 description:         'None'
 url:                 http://lanyon.getpoole.com
-baseurl:             ''
+baseurl:             'about.md'
 paginate:            5
 permalink:           pretty
 
