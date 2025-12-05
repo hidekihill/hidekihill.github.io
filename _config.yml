@@ -2,16 +2,18 @@
 title:               H
 tagline:             'None'
 description:         'None'
-url:                 http://lanyon.getpoole.com
-baseurl:             'about.md'
+url:                 http://hidekihill.github.io
+baseurl:             ''
 paginate:            5
 permalink:           pretty
 
-# About/contact
-author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+sidebar_links:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Contact"
+    url: "/contact/"
 
 # Gems
 plugins:
