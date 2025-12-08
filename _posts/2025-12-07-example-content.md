@@ -3,7 +3,6 @@ layout: post
 title: Example content
 ---
 
-
 <div class="message">
   Welcome
 </div>
@@ -29,11 +28,7 @@ my_function(1)
   <dd>The programming language used to build advanced Web sites and applications</dd>
 </dl>
 
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
 ### Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 <table>
   <thead>
@@ -71,6 +66,6 @@ Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, conse
 
 -----
 
-Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
+
 
 
