@@ -12,6 +12,8 @@ sidebar_links:
     url: "/"
   - title: "About"
     url: "/about/"
+  - title: "Projects"
+    url: "/projects/"
   - title: "Contact"
     url: "/contact/"
   - title: "Download"
