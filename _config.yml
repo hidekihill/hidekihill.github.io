@@ -1,8 +1,8 @@
 # Setup
 title:               H.E. Hill
 tagline:             'pages'
-description:         'None'
-url:                 http://hidekihill.github.io
+description:         'Jump to'
+# url:                 http://hidekihill.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
@@ -14,6 +14,8 @@ sidebar_links:
     url: "/about/"
   - title: "Contact"
     url: "/contact/"
+  - title: "Download"
+    url: "/download/"
 
 # Gems
 plugins:
