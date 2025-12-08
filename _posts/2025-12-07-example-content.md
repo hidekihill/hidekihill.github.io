@@ -8,6 +8,7 @@ title: Example content
   Welcome
 </div>
 
+## Code
 {% highlight python %}
 // This example can be run in your console
 def my_function(x):
@@ -71,4 +72,5 @@ Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, conse
 -----
 
 Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
+
 
