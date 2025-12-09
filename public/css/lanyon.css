@@ -508,16 +508,16 @@ a.pagination-item:hover {
   color: #6a9fb5;
 }
 
-/* Magenta */
+/* Dark Green */
 .theme-base-0e .sidebar,
 .theme-base-0e .sidebar-toggle:active,
 .theme-base-0e #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #aa759f;
+  background-color: #062E03;
 }
 .theme-base-0e .container a,
 .theme-base-0e .sidebar-toggle,
 .theme-base-0e .related-posts li a:hover {
-  color: #aa759f;
+  color: #062E03;
 }
 
 /* Brown */
