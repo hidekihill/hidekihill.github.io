@@ -512,12 +512,12 @@ a.pagination-item:hover {
 .theme-base-0e .sidebar,
 .theme-base-0e .sidebar-toggle:active,
 .theme-base-0e #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #062E03;
+  background-color: #062Ee03;
 }
 .theme-base-0e .container a,
 .theme-base-0e .sidebar-toggle,
 .theme-base-0e .related-posts li a:hover {
-  color: #062E03;
+  color: #062e03;
 }
 
 /* Brown */
