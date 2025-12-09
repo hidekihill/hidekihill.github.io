@@ -5,8 +5,7 @@ title: Contact
 
 ## Email
 <div class="message">
-  hideki . hill @ utoronto . ca
-
+  hideki . hill @ utoronto . ca<.br>
   hillh6 @ mcmaster . ca
 </div>
 
