@@ -20,6 +20,6 @@ TBC: python script for graphing complex-valued exponential Kloosterman sums. Ins
 I have written two mathematical expository research articles for the CMS journal <em>Notes from the Margin</em>.
 * Vol. 18, Summer 2025. Exploring the transcendence of pi. View <a href="https://studc.math.ca/wp-content/uploads/2025/06/NftM-S2025.pdf">issue</a> on the NftM website.
 * Vol. 19, Fall 2025. Containing the infinite with the Kronecker-Weber Theorem. Forthcoming.
-<div class=message>
+<div class="message">
   The Margin is always looking for contributions, don't be shy to send in an article! See the <a href="https://studc.math.ca/notes-from-the-margin/">NftM page</a> on the CMS website for more information.
 </div>
