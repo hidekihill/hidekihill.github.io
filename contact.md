@@ -3,6 +3,16 @@ layout: page
 title: Contact
 ---
 
-Email: hideki . hill @ utoronto . ca
+## Email
+<div class="message">
+  hideki . hill @ utoronto . ca
 
-Linkedin: linkedin.com / in / hidekihill
+  hillh6 @ mcmaster . ca
+</div>
+
+## Linkedin
+<div class="message">
+  linkedin.com / in / hidekihill
+</div>
+
+
