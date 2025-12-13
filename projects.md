@@ -18,8 +18,9 @@ TBC: python script for graphing complex-valued exponential Kloosterman sums. Ins
 
 ## Notes from the Margin (Canadian Mathematical Society)
 I have written two mathematical expository research articles for the CMS student journal <em>Notes from the Margin</em>.
-* Vol. 18, June 2025. Exploring the transcendence of pi. View <a href="https://studc.math.ca/wp-content/uploads/2025/06/NftM-S2025.pdf">issue</a> on the NftM website.
-* Vol. 19, December 2025. Containing the infinite with the Kronecker-Weber Theorem. Forthcoming.
+* Vol. 19, December 2025. Containing the infinite with the Kronecker-Weber theorem. View the <a href="https://studc.math.ca/wp-content/uploads/2025/12/NftM-W2025.pdf">Summer 2025 issue</a>.
+* Vol. 18, June 2025. Exploring the transcendence of pi. View <a href="https://studc.math.ca/wp-content/uploads/2025/06/NftM-S2025.pdf">Summer 2025 issue</a>..
+
 <div class="message">
   See the <a href="https://studc.math.ca/notes-from-the-margin/">NftM page</a> on the CMS website for more information on the journal and submission.
 </div>
@@ -28,3 +29,16 @@ I have written two mathematical expository research articles for the CMS student
 In python, writing a script to implement and visualize the <a href="https://en.wikipedia.org/wiki/Huffman_coding">Huffman algorithm</a> given a list of probabilities of the form {p<sub>1</sub>, p<sub>2</sub>, ..., p<sub>n</sub> s.t. &Sigma; p<sub>i</sub>=1}
 
 Writing a script to implement the <a href="https://en.wikipedia.org/wiki/LZ77_and_LZ78">Lempel-Ziv algorithm</a> given a binary string of the form (10010100101011010...).
+
+Examples of the current functionality of the script include:
+
+An elementary "toy" example.
+<img width="778" height="580" alt="image" src="https://github.com/user-attachments/assets/7637975f-c33e-4165-b655-394636d544ca" />
+
+An example of a <a href="https://en.wikipedia.org/wiki/Discrete_uniform_distribution">uniform distribution</a> on a discrete alphabet of size 10, characterized by its identical probabilities across all events.
+<img width="787" height="587" alt="image" src="https://github.com/user-attachments/assets/199404e1-c7e5-4cda-98e1-60fffd074f98" />
+
+An example of a randomly generated probability event set using a <a href="https://en.wikipedia.org/wiki/Dirichlet_distribution">Dirichlet distribution</a>, characterized by its summation constraints identical to the ones imposed by Huffman.
+<img width="792" height="585" alt="image" src="https://github.com/user-attachments/assets/9dc6e750-730f-44d2-a85a-77512478881a" />
+
+
