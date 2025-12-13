@@ -25,6 +25,6 @@ I have written two mathematical expository research articles for the CMS student
 </div>
 
 ## Information theortic coding schemes: Huffman and LZ implementation in Python with visualization
-In python, writing a script to implement and visualize the <a href="https://en.wikipedia.org/wiki/Huffman_coding">Huffman coding</a> algorithm given a list of probabilities of the form {p<sub>1</sub>, p<sub>2</sub>, ..., p<sub>n</sub> s.t. &Sigma; p<sub>i</sub>=1}
+In python, writing a script to implement and visualize the <a href="https://en.wikipedia.org/wiki/Huffman_coding">Huffman algorithm</a> given a list of probabilities of the form {p<sub>1</sub>, p<sub>2</sub>, ..., p<sub>n</sub> s.t. &Sigma; p<sub>i</sub>=1}
 
-Writing a script to implement the Lempel-Ziv <a href="https://en.wikipedia.org/wiki/LZ77_and_LZ78">coding algorithm</a> given a binary string of the form (10010100101011010...).
+Writing a script to implement the <a href="https://en.wikipedia.org/wiki/LZ77_and_LZ78">Lempel-Ziv algorithm</a> given a binary string of the form (10010100101011010...).
