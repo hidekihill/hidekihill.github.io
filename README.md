@@ -12,12 +12,12 @@
 
 ## Usage
 
-Lanyon is a theme built on top of [Poole](https://github.com/poole/poole), which provides a fully furnished Jekyll setup—just download and start the Jekyll server. See [the Poole usage guidelines](https://github.com/poole/poole#usage) for how to install and use Jekyll.
+View the GitHub for this template: [Lanyon](https://github.com/poole/lanyon).
 
 
 ### Sidebar menu
 
-Create a list of nav links in the sidebar by assigning each Jekyll page the correct layout in the page's [front-matter](http://jekyllrb.com/docs/frontmatter/).
+Create a list of nav links in the sidebar by assigning each page the correct layout in the page's [front-matter](http://jekyllrb.com/docs/frontmatter/).
 
 ```
 ---
@@ -29,25 +29,22 @@ title: About
 
 ### Themes
 
-![Available theme classes](https://f.cloud.github.com/assets/98681/1817044/e5b0ec06-6f68-11e3-83d7-acd1942797a1.png)
-
-To use a theme, add any one of the available theme classes to the `<body>` element in the `default.html` layout, like so:
+Adjust the theme via `<body>` in `default.html`:
 
 ```html
 <body class="theme-base-08">
   ...
 </body>
 ```
+Adjust the theme colours via theme hex codes in `public/css/lanyon.css`:
 
-To create your own theme, look to the Themes section of [included CSS file](https://github.com/poole/lanyon/blob/master/public/css/lanyon.css). Copy any existing theme (they're only a few lines of CSS), rename it, and change the provided colors.
+```
+```
 
 
-### Reverse layout
+### Layout changes
 
-![Lanyon with reverse layout](https://f.cloud.github.com/assets/98681/1825265/be03f2e4-71b0-11e3-89f1-360705524495.png)
-![Lanyon with reverse layout and open sidebar](https://f.cloud.github.com/assets/98681/1825268/be056174-71b0-11e3-88c8-5055bca4307f.png)
-
-Reverse the page orientation with a single class.
+Reverse the page orientation via:
 
 ```html
 <body class="layout-reverse">
@@ -55,10 +52,7 @@ Reverse the page orientation with a single class.
 </body>
 ```
 
-
-### Sidebar overlay instead of push
-
-Make the sidebar overlap the viewport content with a single class:
+Make the sidebar overlap the viewport content via:
 
 ```html
 <body class="sidebar-overlay">
@@ -75,8 +69,6 @@ It's also available for a reversed layout when you add both classes:
   ...
 </body>
 ```
-
-### Sidebar open on page load
 
 Show an open sidebar on page load by modifying the `<input>` tag within the `sidebar.html` layout to add the `checked` boolean attribute:
 
