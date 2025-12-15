@@ -12,5 +12,5 @@ My website - to be completed
 Site design and development: [GitHub](https://github.com/poole).
 
 ## Education
-* MEng co-op, U of T ECE, present
-* Honours BSc, McMaster Math and Stats, 2025 graduate
+* Current: MEng (co-op), ECE, U Toronto
+* Prev: BSc (Honours), Math and Stats, McMaster U
