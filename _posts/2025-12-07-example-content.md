@@ -2,6 +2,7 @@
 layout: post
 title: Example content
 ---
+<img width="571" height="486" alt="image" src="https://github.com/user-attachments/assets/6fc8d593-0321-4bf1-8d4b-3feeee995b49" />
 
 <div class="message">
   Welcome
@@ -65,6 +66,7 @@ my_function(1)
 </table>
 
 -----
+
 
 
 
