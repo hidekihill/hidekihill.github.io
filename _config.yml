@@ -16,8 +16,6 @@ sidebar_links:
     url: "/projects/"
   - title: "Contact"
     url: "/contact/"
-  - title: "Download"
-    url: "/download/"
 
 # Gems
 plugins:
