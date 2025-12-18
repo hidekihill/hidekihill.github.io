@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-## AffectFusion
+## AffectFusion 
 S. Ajadalu, Y. Attafuah, H. Hill. A multimodal deep learning framework for affective state recognition.
 * View <a href="https://hidekihill.github.io/1513_Report_Public_copy.pdf">project report</a>.
 
