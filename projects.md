@@ -12,7 +12,8 @@ H. Hill, sup. C. Franc. Undergraduate thesis formulating a series of computation
 of the modular group PSL<sub>2</sub>(**Z**) (the projective special linear group of 2 by 2 matrices with integer entries).
 
 * View my <a href="https://hidekihill.github.io/HidekiHill_ThesisTalk_slides.pdf">slides</a> from my talk at McMaster's Department of Mathematics and Statistics 2025 undergraduate thesis presentations.
-* View my thesis on McMaster's Mathematics and Statistics <a href="https://math.mcmaster.ca/undergraduate/useful-links/undergraduate-research-projects/">departmental website</a>. Also available as a <a href="https://hidekihill.github.io/HidekiHill_4P06_thesis.pdf">PDF</a>.
+* View my thesis on McMaster's Mathematics and Statistics <a href="https://math.mcmaster.ca/undergraduate/useful-links/undergraduate-research-projects/">departmental website</a>. Also available as a
+  <a href="https://hidekihill.github.io/HidekiHill_4P06_thesis.pdf">PDF</a>.
 
 TBC: python script for graphing complex-valued exponential Kloosterman sums. Inspired by <a href="https://blogs.ethz.ch/kowalski/the-kloostermania-page/">E. Kowalski</a>'s Kloostermania. 
 
