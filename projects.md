@@ -29,17 +29,19 @@ I have written two mathematical expository research articles for the CMS student
 ## Information theortic coding schemes: Huffman and LZ implementation in Python with visualization
 A tool to implement and visualize/trace the <a href="https://en.wikipedia.org/wiki/Huffman_coding">Huffman algorithm</a> given the probabilities associated with the probabiltiy density function of a discrete random variable. This constraint can be written as {p<sub>1</sub>, p<sub>2</sub>, ..., p<sub>n</sub> s.t. &Sigma; p<sub>i</sub>=1}
 
+View the <a href="https://github.com/hidekihill/huffman-coding/tree/main">GitHub repository</a>.
+
 Examples of the current functionality of the Huffman script include:
 
-An elementary "toy" example.
+An elementary "toy" example:
 
 <img width="500" height="379" alt="image" src="https://github.com/user-attachments/assets/7637975f-c33e-4165-b655-394636d544ca" />
 
-An example of a <a href="https://en.wikipedia.org/wiki/Discrete_uniform_distribution">uniform distribution</a> on a discrete alphabet of size 10, characterized by its identical probabilities across all events.
+An example of a <a href="https://en.wikipedia.org/wiki/Discrete_uniform_distribution">uniform distribution</a> on a discrete alphabet of size 10, characterized by its identical probabilities across each event:
 
 <img width="500" height="373" alt="image" src="https://github.com/user-attachments/assets/199404e1-c7e5-4cda-98e1-60fffd074f98" />
 
-An example of a randomly generated probability event set using a <a href="https://en.wikipedia.org/wiki/Dirichlet_distribution">Dirichlet distribution</a>, characterized by its summation constraints identical to the ones imposed by Huffman.
+An example of a probability measure on 7 events generated with a <a href="https://en.wikipedia.org/wiki/Dirichlet_distribution">Dirichlet distribution</a>:
 
 <img width="500" height="369" alt="image" src="https://github.com/user-attachments/assets/9dc6e750-730f-44d2-a85a-77512478881a" />
 
