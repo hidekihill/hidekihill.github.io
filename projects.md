@@ -11,8 +11,8 @@ S. Ajadalu, Y. Attafuah, H. Hill. A multimodal deep learning framework for affec
 H. Hill, sup. C. Franc. Undergraduate thesis formulating a series of computations of Kloosterman sums resulting from a particular family of three-dimensional representations
 of the modular group PSL<sub>2</sub>(**Z**) (the projective special linear group of 2 by 2 matrices with integer entries).
 
-* View <a href="https://hidekihill.github.io/HidekiHill_ThesisTalk_slides.pdf">slides</a> from my talk at McMaster's Department of Mathematics and Statistics 2025 undergraduate thesis presentations.
-* View <a href="https://hidekihill.github.io/HidekiHill_4P06_thesis.pdf">thesis</a>. Also available on McMaster's Mathematics and Statistics <a href="https://math.mcmaster.ca/undergraduate/useful-links/undergraduate-research-projects/">departmental website</a>.
+* View my <a href="https://hidekihill.github.io/HidekiHill_ThesisTalk_slides.pdf">slides</a> from my talk at McMaster's Department of Mathematics and Statistics 2025 undergraduate thesis presentations.
+* View my thesis on McMaster's Mathematics and Statistics <a href="https://math.mcmaster.ca/undergraduate/useful-links/undergraduate-research-projects/">departmental website</a>. Also available as a PDF  View <a href="https://hidekihill.github.io/HidekiHill_4P06_thesis.pdf">here</a>
 
 TBC: python script for graphing complex-valued exponential Kloosterman sums. Inspired by <a href="https://blogs.ethz.ch/kowalski/the-kloostermania-page/">E. Kowalski</a>'s Kloostermania. 
 
