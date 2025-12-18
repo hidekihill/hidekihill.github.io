@@ -12,7 +12,7 @@ H. Hill, sup. C. Franc. Undergraduate thesis formulating a series of computation
 of the modular group PSL<sub>2</sub>(**Z**) (the projective special linear group of 2 by 2 matrices with integer entries).
 
 * View my <a href="https://hidekihill.github.io/HidekiHill_ThesisTalk_slides.pdf">slides</a> from my talk at McMaster's Department of Mathematics and Statistics 2025 undergraduate thesis presentations.
-* View my thesis on McMaster's Mathematics and Statistics <a href="https://math.mcmaster.ca/undergraduate/useful-links/undergraduate-research-projects/">departmental website</a>. Also available as a PDF  View <a href="https://hidekihill.github.io/HidekiHill_4P06_thesis.pdf">here</a>
+* View my thesis on McMaster's Mathematics and Statistics <a href="https://math.mcmaster.ca/undergraduate/useful-links/undergraduate-research-projects/">departmental website</a>. Also available as a <a href="https://hidekihill.github.io/HidekiHill_4P06_thesis.pdf">PDF</a>.
 
 TBC: python script for graphing complex-valued exponential Kloosterman sums. Inspired by <a href="https://blogs.ethz.ch/kowalski/the-kloostermania-page/">E. Kowalski</a>'s Kloostermania. 
 
@@ -26,11 +26,9 @@ I have written two mathematical expository research articles for the CMS student
 </div>
 
 ## Information theortic coding schemes: Huffman and LZ implementation in Python with visualization
-In python, writing a script to implement and visualize the <a href="https://en.wikipedia.org/wiki/Huffman_coding">Huffman algorithm</a> given a list of probabilities of the form {p<sub>1</sub>, p<sub>2</sub>, ..., p<sub>n</sub> s.t. &Sigma; p<sub>i</sub>=1}
+In python, writing a script to implement and visualize the <a href="https://en.wikipedia.org/wiki/Huffman_coding">Huffman algorithm</a> given the probabilities associated with the probabiltiy density function of a discrete random variable. This constraint can be written as {p<sub>1</sub>, p<sub>2</sub>, ..., p<sub>n</sub> s.t. &Sigma; p<sub>i</sub>=1}
 
-Writing a script to implement the <a href="https://en.wikipedia.org/wiki/LZ77_and_LZ78">Lempel-Ziv algorithm</a> given a binary string of the form (10010100101011010...).
-
-Examples of the current functionality of the script include:
+Examples of the current functionality of the Huffman script include:
 
 An elementary "toy" example.
 
@@ -44,4 +42,4 @@ An example of a randomly generated probability event set using a <a href="https:
 
 <img width="792" height="585" alt="image" src="https://github.com/user-attachments/assets/9dc6e750-730f-44d2-a85a-77512478881a" />
 
-
+TBC: implement the <a href="https://en.wikipedia.org/wiki/LZ77_and_LZ78">Lempel-Ziv algorithm</a> given a binary string of the form (10010100101011010...).
