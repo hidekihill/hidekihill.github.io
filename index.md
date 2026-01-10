@@ -10,6 +10,7 @@ Completed courses:
 * ECE1502 Information Theory
 * ECE1513 Introduction to Machine Learning
 * TEP1701 Navigating the Engineering Workplace
+
 Courses in progress:
 * ECE1501 Error Control Codes
 * CIV1538 Transport Demand Analysis
