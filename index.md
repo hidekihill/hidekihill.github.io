@@ -2,13 +2,22 @@
 layout: default
 title: Home
 ---
-Welcome! I am an MEng student at the Department of Electrical and Computer Engineering (ECE) at the University of Toronto. I am one of 40 students across six U of T Engineering departments participating in the inaugural MEng co-op class. Read more about the MEng co-op stream on the [U of T Engineering website](https://gradstudies.engineering.utoronto.ca/master-of-engineering-meng/meng-co-op-program/?utm_source=FASE_ECE&utm_medium=banner&utm_campaign=meng_coop).
+MEng student at the Department of Electrical and Computer Engineering (ECE) at the University of Toronto. One of 40 students across six U of T Engineering departments participating in the inaugural MEng co-op class; read more about the MEng co-op stream on the [U of T Engineering website](https://gradstudies.engineering.utoronto.ca/master-of-engineering-meng/meng-co-op-program/?utm_source=FASE_ECE&utm_medium=banner&utm_campaign=meng_coop).
 
-I am focusing my coursework and projects in data analytics, machine learning, and communication theory. I am particularly interested in applying machine learning to autonomous driving and traffic control.
+I am focusing my coursework and projects in data analytics, machine learning, and communication theory and am particularly interested in applying machine learning to autonomous driving and traffic control.
 
-I am a Teaching Assistant for the second year ECE undergraduate course MAT290: Advanced Engineering Mathematics, and work as a Facilities Assistant within the Operations and Real Estate Partnerships division at U of T.
+Completed courses:
+* ECE1502 Information Theory
+* ECE1513 Introduction to Machine Learning
+* TEP1701 Navigating the Engineering Workplace
+Courses in progress:
+* ECE1501 Error Control Codes
+* CIV1538 Transport Demand Analysis
+* APS1028 Operations and Production Management
 
-In June 2025, I graduated from McMaster University's Honours Mathematics and Statistics program. View the projects page on the sidebar to read about my undergraduate thesis.
+I was a Teaching Assistant for the Fall 2025 delivery of MAT290H1F: Advanced Engineering Mathematics and currently work as a Facilities Assistant within the VP Operations and Real Estate Partnerships division at U of T.
+
+In June 2025, I graduated from McMaster University's Honours Mathematics and Statistics program. View the projects page to view my undergraduate thesis.
 
 
 Site template designed by Mark Otto, view the [Lanyon repository](https://github.com/poole/lanyon).
