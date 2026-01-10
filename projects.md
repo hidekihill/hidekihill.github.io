@@ -35,14 +35,15 @@ Examples of the current functionality of the Huffman script include:
 
 An elementary "toy" example:
 
-<img width="500" height="379" alt="image" src="https://github.com/user-attachments/assets/7637975f-c33e-4165-b655-394636d544ca" />
+<img width="1285" height="727" alt="image" src="https://github.com/user-attachments/assets/15358597-4d6f-4452-b472-f61a25670079" />
 
 An example of a <a href="https://en.wikipedia.org/wiki/Discrete_uniform_distribution">uniform distribution</a> on a discrete alphabet of size 10, characterized by its identical probabilities across each event:
 
-<img width="500" height="373" alt="image" src="https://github.com/user-attachments/assets/199404e1-c7e5-4cda-98e1-60fffd074f98" />
+<img width="1290" height="741" alt="image" src="https://github.com/user-attachments/assets/dd11bce0-1a15-4826-aaf7-4b57d65b43c9" />
 
 An example of a probability measure on 7 events generated with a <a href="https://en.wikipedia.org/wiki/Dirichlet_distribution">Dirichlet distribution</a>:
 
-<img width="500" height="369" alt="image" src="https://github.com/user-attachments/assets/9dc6e750-730f-44d2-a85a-77512478881a" />
+<img width="1292" height="734" alt="image" src="https://github.com/user-attachments/assets/6c12e349-5373-4acc-b5ff-678860c78aa0" />
+
 
 TBC: implement the <a href="https://en.wikipedia.org/wiki/LZ77_and_LZ78">Lempel-Ziv algorithm</a> given a binary string of the form (10010100101011010...).
