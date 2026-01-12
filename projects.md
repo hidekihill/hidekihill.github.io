@@ -4,10 +4,10 @@ title: Projects
 ---
 
 ## AffectFusion 
-S. Ajadalu, Y. Attafuah, H. Hill. A multimodal deep learning framework for affective state recognition.
+S. Ajadalu, Y. Attafuah, H. Hill. AffectFusion: A Multimodal Deep Learning Framework for Affective State Recognition with Applications to Online Education Systems.
 * View <a href="https://hidekihill.github.io/1513_Report_Public_copy.pdf">project report</a>.
 
-## Computations with a Family of Kloosterman Sums
+## Computations with a Family of Three-Dimensional Kloosterman Sums
 H. Hill, sup. C. Franc. Undergraduate thesis formulating a series of computations of Kloosterman sums resulting from a particular family of three-dimensional representations
 of the modular group PSL<sub>2</sub>(**Z**).
 
