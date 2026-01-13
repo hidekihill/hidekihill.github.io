@@ -35,7 +35,7 @@ Examples of the current functionality of the Huffman script include:
 
 An elementary "toy" example:
 
-<img width="1300" height="731" alt="image" src="https://github.com/user-attachments/assets/15358597-4d6f-4452-b472-f61a25670079" />
+<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/15358597-4d6f-4452-b472-f61a25670079" />
 
 An example of a <a href="https://en.wikipedia.org/wiki/Discrete_uniform_distribution">uniform distribution</a> on a discrete alphabet of size 10, characterized by its identical probabilities across each event:
 
