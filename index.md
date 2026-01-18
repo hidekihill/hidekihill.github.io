@@ -4,14 +4,14 @@ title: Home
 ---
 MEng student at the Department of Electrical and Computer Engineering (ECE) at the University of Toronto. One of 40 students across six U of T Engineering departments participating in the Faculty's inaugural MEng co-op class; read more about the MEng co-op stream on the [U of T Engineering website](https://gradstudies.engineering.utoronto.ca/master-of-engineering-meng/meng-co-op-program/?utm_source=FASE_ECE&utm_medium=banner&utm_campaign=meng_coop).
 
-I am focusing my coursework and projects in data analytics, machine learning, and communication theory and am particularly interested in applying machine learning to autonomous driving and traffic control.
+I am focusing my coursework and projects in data analytics, machine learning, and communications theory and am particularly interested in applying machine learning to autonomous driving and traffic control.
 
-Completed courses:
+Completed graduate courses:
 * ECE1502 Information Theory
 * ECE1513 Introduction to Machine Learning
 * TEP1701 Navigating the Engineering Workplace
 
-Courses in progress:
+Graduate courses in progress:
 * ECE1501 Error Control Codes
 * CIV1538 Transport Demand Analysis
 * APS1028 Operations and Production Management
