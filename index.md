@@ -18,6 +18,7 @@ I am focusing my coursework and projects in data analytics, machine learning, an
 * ECE1501 Error Control Codes
 * CIV1538 Transport Demand Analysis
 * APS1028 Operations and Production Management
+## 
 
 Site template designed by Mark Otto, view the [Lanyon repository](https://github.com/poole/lanyon).
 
