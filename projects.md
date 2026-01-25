@@ -16,7 +16,9 @@ H. Hill, sup. C. Franc. Undergraduate thesis formulating a series of computation
 * View my thesis on McMaster's Mathematics and Statistics <a href="https://math.mcmaster.ca/undergraduate/useful-links/undergraduate-research-projects/">departmental website</a>. Also available as a
   <a href="https://hidekihill.github.io/Hideki_Thesis_Dec2025.pdf">PDF</a>.
 
-Future direction: Python script for graphing complex-valued exponential Kloosterman sums. Inspired by <a href="https://blogs.ethz.ch/kowalski/the-kloostermania-page/">E. Kowalski</a>'s Kloostermania. 
+<!-->
+Future direction: Python script for graphing complex-valued exponential Kloosterman sums. Inspired by <a href="https://blogs.ethz.ch/kowalski/the-kloostermania-page/">E. Kowalski</a>'s Kloostermania.
+<-->
 
 ## Information theortic coding schemes: Huffman and LZ implementation in Python with visualization
 A tool to implement and visualize/trace the <a href="https://en.wikipedia.org/wiki/Huffman_coding">Huffman algorithm</a> given the probabilities associated with the probabiltiy density function of a discrete random variable. This constraint can be written as {p<sub>1</sub>, p<sub>2</sub>, ..., p<sub>n</sub> s.t. &Sigma; p<sub>i</sub>=1}
