@@ -512,7 +512,8 @@ a.pagination-item:hover {
 .theme-base-0e .sidebar,
 .theme-base-0e .sidebar-toggle:active,
 .theme-base-0e #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #3457d5;
+  /* background-color: #3457d5; */
+  background-color: #1e3765;
 }
 .theme-base-0e .container a,
 .theme-base-0e .sidebar-toggle,
