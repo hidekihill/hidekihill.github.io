@@ -12,13 +12,15 @@ In June 2025, I graduated from McMaster University's Honours Mathematics and Sta
 ## Courses
 I am focusing my coursework and projects in data analytics, machine learning, and theory of communications.
 
+
+* ECE1501 Error Control Codes
 * ECE1502 Information Theory
 * ECE1513 Introduction to Machine Learning
-* TEP1701 Navigating the Engineering Workplace
-* ECE1501 Error Control Codes
 * CIV1538 Transport Demand Analysis
 * APS1028 Operations and Production Management
-## 
+* TEP1701 Navigating the Engineering Workplace
+
+<hr>
 
 Site template designed by Mark Otto, view the [Lanyon repository](https://github.com/poole/lanyon).
 
