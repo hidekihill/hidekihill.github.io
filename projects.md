@@ -10,7 +10,7 @@ S. Ajadalu, Y. Attafuah, H. Hill. Engineering a data pipeline for live inference
 * View <a href="https://hidekihill.github.io/1513_Report_Public_copy.pdf">project report</a>.
 
 ## Computations with a Family of Three-Dimensional Kloosterman Sums
-H. Hill, sup. C. Franc. Undergraduate thesis formulating a series of computations of Kloosterman sums resulting from a particular family of three-dimensional representations of the modular group SL<sub>2</sub>(**Z**)/{&pm; I}.
+H. Hill, sup. C. Franc. Undergraduate thesis formulating a series of computations of Kloosterman sums resulting from a particular family of three-dimensional representations of the modular group SL<sub>2</sub>(**Z**)/{ &pm;I}.
 
 * View my <a href="https://hidekihill.github.io/HidekiHill_ThesisTalk_slides.pdf">slides</a> from my talk at McMaster's Department of Mathematics and Statistics 2025 undergraduate thesis presentations.
 * View my thesis on McMaster's Mathematics and Statistics <a href="https://math.mcmaster.ca/undergraduate/useful-links/undergraduate-research-projects/">departmental website</a>. Also available as a
