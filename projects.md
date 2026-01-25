@@ -10,15 +10,13 @@ S. Ajadalu, Y. Attafuah, H. Hill. Engineering a data pipeline for live inference
 * View <a href="https://hidekihill.github.io/1513_Report_Public_copy.pdf">project report</a>.
 
 ## Computations with a Family of Three-Dimensional Kloosterman Sums
-H. Hill, sup. C. Franc. Undergraduate thesis formulating a series of computations of Kloosterman sums resulting from a particular family of three-dimensional representations of the modular group SL<sub>2</sub>(**Z**).
+H. Hill, sup. C. Franc. Undergraduate thesis formulating a series of computations of Kloosterman sums resulting from a particular family of three-dimensional representations of the modular group SL<sub>2</sub>(**Z**)/{&pm I}.
 
 * View my <a href="https://hidekihill.github.io/HidekiHill_ThesisTalk_slides.pdf">slides</a> from my talk at McMaster's Department of Mathematics and Statistics 2025 undergraduate thesis presentations.
 * View my thesis on McMaster's Mathematics and Statistics <a href="https://math.mcmaster.ca/undergraduate/useful-links/undergraduate-research-projects/">departmental website</a>. Also available as a
   <a href="https://hidekihill.github.io/Hideki_Thesis_Dec2025.pdf">PDF</a>.
 
-<!-->
-Future direction: Python script for graphing complex-valued exponential Kloosterman sums. Inspired by <a href="https://blogs.ethz.ch/kowalski/the-kloostermania-page/">E. Kowalski</a>'s Kloostermania.
-<-->
+<!-- Python script for graphing complex-valued exponential Kloosterman sums. Inspired by <a href="https://blogs.ethz.ch/kowalski/the-kloostermania-page/">E. Kowalski</a>'s Kloostermania. -->
 
 ## Information theortic coding schemes: Huffman and LZ implementation in Python with visualization
 A tool to implement and visualize/trace the <a href="https://en.wikipedia.org/wiki/Huffman_coding">Huffman algorithm</a> given the probabilities associated with the probabiltiy density function of a discrete random variable. This constraint can be written as {p<sub>1</sub>, p<sub>2</sub>, ..., p<sub>n</sub> s.t. &Sigma; p<sub>i</sub>=1}
