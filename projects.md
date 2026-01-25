@@ -10,7 +10,7 @@ S. Ajadalu, Y. Attafuah, H. Hill. Engineering a data pipeline for live inference
 * View <a href="https://hidekihill.github.io/1513_Report_Public_copy.pdf">project report</a>.
 
 ## Computations with a Family of Three-Dimensional Kloosterman Sums
-H. Hill, sup. C. Franc. Undergraduate thesis formulating a series of computations of Kloosterman sums resulting from a particular family of three-dimensional representations of the modular group SL<sub>2</sub>(**Z**)/{&pm I}.
+H. Hill, sup. C. Franc. Undergraduate thesis formulating a series of computations of Kloosterman sums resulting from a particular family of three-dimensional representations of the modular group SL<sub>2</sub>(**Z**)/{&pm; I}.
 
 * View my <a href="https://hidekihill.github.io/HidekiHill_ThesisTalk_slides.pdf">slides</a> from my talk at McMaster's Department of Mathematics and Statistics 2025 undergraduate thesis presentations.
 * View my thesis on McMaster's Mathematics and Statistics <a href="https://math.mcmaster.ca/undergraduate/useful-links/undergraduate-research-projects/">departmental website</a>. Also available as a
@@ -45,7 +45,7 @@ To be completed: implement the <a href="https://en.wikipedia.org/wiki/LZ77_and_L
 ## Expository writing for the Canadian Mathematical Society (CMS)
 I have written two mathematical expository research articles for the CMS student publication <em>Notes from the Margin</em>.
 * Vol. 19, December 2025. "Containing the infinite with the Kronecker-Weber theorem". View the <a href="https://studc.math.ca/wp-content/uploads/2025/12/NftM-W2025.pdf">Winter 2025 issue</a>.
-* Vol. 18, June 2025. "Exploring the transcendence of &pi". View the <a href="https://studc.math.ca/wp-content/uploads/2025/06/NftM-S2025.pdf">Summer 2025 issue</a>.
+* Vol. 18, June 2025. "Exploring the transcendence of &pi;". View the <a href="https://studc.math.ca/wp-content/uploads/2025/06/NftM-S2025.pdf">Summer 2025 issue</a>.
 
 <div class="message">
   See the <a href="https://studc.math.ca/notes-from-the-margin/">NftM page</a> on the CMS website for more information on the journal and submission.
