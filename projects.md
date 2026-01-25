@@ -6,7 +6,7 @@ title: Projects
 The following is a brief overview of my academic work and projects. You can view my <a href="https://github.com/hidekihill">GitHub profile</a> for select code and details.
   
 ## AffectFusion: A Multimodal Deep Learning Framework for Affective State Recognition with Applications to Online Education Systems
-S. Ajadalu, Y. Attafuah, H. Hill. Engineering a data pipeline for live inference on a multimodel architecture detecting level of engagement and binary emotion classification. This paper 
+S. Ajadalu, Y. Attafuah, H. Hill. Engineering a data pipeline for live inference on a multimodel architecture detecting level of engagement and binary emotion classification. This paper discusses the application of the deep learning architecture to online learning systems.
 * View <a href="https://hidekihill.github.io/1513_Report_Public_copy.pdf">project report</a>.
 
 ## Computations with a Family of Three-Dimensional Kloosterman Sums
@@ -19,7 +19,7 @@ H. Hill, sup. C. Franc. Undergraduate thesis formulating a series of computation
 <!-- Python script for graphing complex-valued exponential Kloosterman sums. Inspired by <a href="https://blogs.ethz.ch/kowalski/the-kloostermania-page/">E. Kowalski</a>'s Kloostermania. -->
 
 ## Information theortic coding schemes: Huffman and LZ implementation in Python with visualization
-A tool to implement and visualize/trace the <a href="https://en.wikipedia.org/wiki/Huffman_coding">Huffman algorithm</a> given the probabilities associated with the probabiltiy density function of a discrete random variable. This constraint can be written as {p<sub>1</sub>, p<sub>2</sub>, ..., p<sub>n</sub> s.t. &Sigma; p<sub>i</sub>=1}
+A tool to implement and visualize/trace the <a href="https://en.wikipedia.org/wiki/Huffman_coding">Huffman algorithm</a> given the probabilities associated with the probabiltiy density function of a discrete random variable. This constraint can be written as {p<sub>1</sub>, p<sub>2</sub>, ..., p<sub>n</sub> s.t. &Sigma; p<sub>i</sub> = 1}.
 
 View the <a href="https://github.com/hidekihill/huffman-coding/tree/main">GitHub repository</a>.
 
