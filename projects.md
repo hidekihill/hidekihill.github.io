@@ -2,12 +2,8 @@
 layout: page
 title: Projects
 ---
-## 
 
-<div class="message">
-  The following is an overview of my academic work and projects. You can look at my <a href="https://github.com/hidekihill">GitHub profile</a> for code and details.
-</div>
-
+The following is an overview of my academic work and projects. You can look at my <a href="https://github.com/hidekihill">GitHub profile</a> for code and details.
   
 ## AffectFusion 
 S. Ajadalu, Y. Attafuah, H. Hill. AffectFusion: A Multimodal Deep Learning Framework for Affective State Recognition with Applications to Online Education Systems.
