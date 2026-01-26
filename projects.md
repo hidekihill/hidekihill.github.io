@@ -6,11 +6,11 @@ title: Projects
 The following is a brief overview of my academic work and projects. You can view my <a href="https://github.com/hidekihill">GitHub profile</a> for select code and details.
   
 ## AffectFusion: A Multimodal Deep Learning Framework for Affective State Recognition with Applications to Online Education Systems
-S. Ajadalu, Y. Attafuah, H. Hill. Engineering a data pipeline for live inference on a multimodel architecture detecting level of engagement and binary emotion classification. This paper discusses the application of the deep learning architecture to online learning systems.
+S. Ajadalu, Y. Attafuah, H. Hill. Engineering a data pipeline for live inference on a multimodel architecture detecting level of engagement and binary emotion classification. We discuss applications of the deep learning architecture to online learning systems.
 * View <a href="https://hidekihill.github.io/1513_Report_Public_copy.pdf">project report</a>.
 
 ## Computations with a Family of Three-Dimensional Kloosterman Sums
-H. Hill, sup. C. Franc. Undergraduate thesis formulating a series of computations of Kloosterman sums resulting from a particular family of three-dimensional representations of the modular group SL<sub>2</sub>(**Z**)/{ &pm;I}.
+H. Hill, sup. C. Franc. Undergraduate thesis formulating a series of computations of Kloosterman sums resulting from a particular family of three-dimensional representations of the modular group SL<sub>2</sub>(**Z**)/{&plusmn;I}.
 
 * View my <a href="https://hidekihill.github.io/HidekiHill_ThesisTalk_slides.pdf">slides</a> from my talk at McMaster's Department of Mathematics and Statistics 2025 undergraduate thesis presentations.
 * View my thesis on McMaster's Mathematics and Statistics <a href="https://math.mcmaster.ca/undergraduate/useful-links/undergraduate-research-projects/">departmental website</a>. Also available as a
