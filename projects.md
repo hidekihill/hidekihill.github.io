@@ -12,13 +12,13 @@ S. Ajadalu, Y. Attafuah, H. Hill. Engineering a data pipeline for live inference
 ## Computations with a Family of Three-Dimensional Kloosterman Sums
 H. Hill, sup. C. Franc. Undergraduate thesis formulating a series of computations of Kloosterman sums resulting from a particular family of three-dimensional representations of the modular group SL<sub>2</sub>(**Z**)/{&plusmn;I}.
 
-* View my <a href="https://hidekihill.github.io/HidekiHill_ThesisTalk_slides.pdf">slides</a> from my talk at McMaster's Department of Mathematics and Statistics 2025 undergraduate thesis presentations.
+* View <a href="https://hidekihill.github.io/HidekiHill_ThesisTalk_slides.pdf">slides</a> from my talk McMaster's Department of Mathematics and Statistics 2025 undergraduate thesis presentation conference.
 * View my thesis on McMaster's Mathematics and Statistics <a href="https://math.mcmaster.ca/undergraduate/useful-links/undergraduate-research-projects/">departmental website</a>. Also available as a
   <a href="https://hidekihill.github.io/Hideki_Thesis_Dec2025.pdf">PDF</a>.
 
 <!-- Python script for graphing complex-valued exponential Kloosterman sums. Inspired by <a href="https://blogs.ethz.ch/kowalski/the-kloostermania-page/">E. Kowalski</a>'s Kloostermania. -->
 
-## Information theortic coding schemes: Huffman and LZ implementation in Python with visualization
+## Information theory and source coding: Huffman visualization in Python
 A tool to implement and visualize/trace the <a href="https://en.wikipedia.org/wiki/Huffman_coding">Huffman algorithm</a> given the probabilities associated with the probabiltiy density function of a discrete random variable. This constraint can be written as {p<sub>1</sub>, p<sub>2</sub>, ..., p<sub>n</sub> s.t. &Sigma; p<sub>i</sub> = 1}.
 
 View the <a href="https://github.com/hidekihill/huffman-coding/tree/main">GitHub repository</a>.
@@ -42,7 +42,7 @@ The following are examples of the current functionality of the tool.
 <hr size="1">
 
 ## Expository writing for the Canadian Mathematical Society (CMS)
-I have written two mathematical expository research articles for the CMS student publication <em>Notes from the Margin</em>.
+I have written two mathematical expository articles for the CMS student publication <em>Notes from the Margin</em> (NftM).
 * Vol. 19, December 2025. "Containing the infinite with the Kronecker-Weber theorem". View the <a href="https://studc.math.ca/wp-content/uploads/2025/12/NftM-W2025.pdf">Winter 2025 issue</a>.
 * Vol. 18, June 2025. "Exploring the transcendence of &pi;". View the <a href="https://studc.math.ca/wp-content/uploads/2025/06/NftM-S2025.pdf">Summer 2025 issue</a>.
 
