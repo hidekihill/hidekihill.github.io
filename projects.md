@@ -47,5 +47,5 @@ I have written two mathematical expository articles for the CMS student publicat
 * Vol. 18, June 2025. "Exploring the transcendence of &pi;". View the <a href="https://studc.math.ca/wp-content/uploads/2025/06/NftM-S2025.pdf">Summer 2025 issue</a>.
 
 <div class="message">
-  See the <a href="https://studc.math.ca/notes-from-the-margin/">NftM page</a> on the CMS website for more information on the journal and submission.
+  See the <a href="https://studc.math.ca/notes-from-the-margin/">NftM page</a> on the CMS website for more info on the publication.
 </div>
