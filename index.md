@@ -3,9 +3,7 @@ layout: default
 title: Home
 ---
 ## About
-MEng student at the Department of Electrical and Computer Engineering (ECE) at the University of Toronto. One of 40 students from the Faculty of Applied Science and Engineering participating in the inaugural MEng co-op class. Read more about the MEng co-op stream on the [U of T Engineering News website](https://news.engineering.utoronto.ca/new-meng-co-op-program-expands-opportunities-for-graduate-students-to-gain-on-the-job-experience/).
-
-I was a Teaching Assistant for the Fall 2025 offering of MAT290H1F: Advanced Engineering Mathematics, covering introductory complex analysis and ordinary differential equations.
+MEng student at the Department of Electrical and Computer Engineering (ECE) at the University of Toronto. One of 40 students from the Faculty of Applied Science and Engineering participating in the inaugural MEng co-op class. Read more about the MEng co-op stream on the [U of T Engineering News website](https://news.engineering.utoronto.ca/new-meng-co-op-program-expands-opportunities-for-graduate-students-to-gain-on-the-job-experience/). I was a Teaching Assistant for the Fall 2025 offering of MAT290H1F: Advanced Engineering Mathematics, covering introductory complex analysis and ordinary differential equations.
 
 I graduated from McMaster University's Honours Mathematics and Statistics program with a Minor in Business (2025). View my undergraduate thesis on the [Projects page](https://hidekihill.github.io/projects/).
 
