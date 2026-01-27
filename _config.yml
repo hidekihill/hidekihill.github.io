@@ -10,10 +10,11 @@ permalink:           pretty
 sidebar_links:
   - title: "Home"
     url: "/"
-  - title: "Contact"
-    url: "/contact/"
   - title: "Projects"
     url: "/projects/"
+  - title: "Contact"
+    url: "/contact/"
+
 
 
 # Gems
