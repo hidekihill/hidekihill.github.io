@@ -9,7 +9,8 @@ I was a Teaching Assistant for the Fall 2025 offering of MAT290H1F: Advanced Eng
 
 I graduated from McMaster University's Honours Mathematics and Statistics program with a Minor in Business (2025). View my undergraduate thesis on the [Projects page](https://hidekihill.github.io/projects/).
 
-Interests: mathematics, statistics, AI, deep learning, computer vision, perception, autonomous transportation, probability, demand modelling, information theory, algebraic coding theory, EdTech.
+## Interests
+Higher mathematics, probability, statistics, AI, deep learning, computer vision, perception, autonomous transportation, demand modelling, information theory, algebraic coding theory, EdTech.
 
 ## Graduate courses
 I am focusing my graduate coursework in data analytics, machine learning, and theory of communications.
