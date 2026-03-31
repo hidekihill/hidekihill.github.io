@@ -4,7 +4,14 @@ title: Projects
 ---
 
 The following is a brief overview of my academic work and projects. View my <a href="https://github.com/hidekihill">GitHub profile</a> for select code and details.
-  
+
+## A Review of Current and Historical Optical Communication Coding Standards
+A technical review and description of past, current, and future error-correcting codes for optical channels. Reed-Solomon, Low-Density Parity-Check, Turbo, Staircase, Open FEC, and Closed FEC.
+
+## An Analysis of Small Modular Reactors as an Operational Response to Net-Zero Energy Demand in Ontario
+
+## An Information-Theoretic Framework for Manufacturing Operations: the Error-Correcting Capacity of the Toyota Production System
+
 ## AffectFusion: A Multimodal Deep Learning Framework for Affective State Recognition with Applications to Online Education Systems
 S. Ajadalu, Y. Attafuah, H. Hill. Engineering a data pipeline for live inference on a multimodel architecture detecting level of engagement and binary emotion classification. We discuss applications of the deep learning architecture to online learning systems. 2025.
 * View <a href="https://hidekihill.github.io/1513_Report_Public_copy.pdf">project report</a>.
