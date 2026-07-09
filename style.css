@@ -1,0 +1,27 @@
+body {
+    font-family: Georgia, serif;
+    max-width: 900px;
+    margin: auto;
+    padding: 40px;
+    line-height: 1.7;
+    color: #222;
+    background: white;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 80px;
+}
+
+nav a {
+    margin-left: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.project {
+    margin: 40px 0;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+}
