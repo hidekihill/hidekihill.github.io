@@ -25,3 +25,23 @@ nav a {
     padding-bottom: 20px;
     border-bottom: 1px solid #ddd;
 }
+
+.grid-container {
+    display: grid;
+    /* Creates 2 columns: Left is 30% width, Right fills the remaining space */
+    grid-template-columns: 30% 1fr; 
+    gap: 20px;
+    width: 100%;
+}
+
+/* Base column styles */
+.grid-column {
+    padding: 20px;
+}
+
+/* Responsive design: Stack into 1 column on small screens */
+@media (max-width: 768px) {
+    .grid-container {
+        grid-template-columns: 1fr;
+    }
+}
