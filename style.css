@@ -40,7 +40,7 @@ nav a {
 }
 
 /* Responsive design: Stack into 1 column on small screens */
-@media (max-width: 768px) {
+@media (max-width: 900px) {
     .grid-container {
         grid-template-columns: 1fr;
     }
