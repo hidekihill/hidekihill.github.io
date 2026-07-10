@@ -29,7 +29,7 @@ nav a {
 .grid-container {
     display: grid;
     /* Creates 2 columns: Left is 30% width, Right fills the remaining space */
-    grid-template-columns: 30% 1fr; 
+    grid-template-columns: 40% 1fr; 
     gap: 20px;
     width: 100%;
 }
