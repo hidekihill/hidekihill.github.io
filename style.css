@@ -1,14 +1,7 @@
 body {
-    /* font-family: Georgia, serif; */
     max-width: 750px;
-    /* margin: auto; */
-    /* padding: 30px; */
-    /* line-height: 1.7;
-    color: #222;
-    background: white; */
-    margin-left: auto;       /* Evenly distributes empty space */
-    margin-right: auto;
-    width: 90%; 
+    margin: 0 auto;
+    padding: 2rem;
 }
 
 header {
