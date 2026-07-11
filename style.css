@@ -1,8 +1,8 @@
 body {
     /* font-family: Georgia, serif; */
-    max-width: 500px;
+    max-width: 750px;
     margin: auto;
-    padding: 40px;
+    padding: 30px;
     /* line-height: 1.7;
     color: #222;
     background: white; */
@@ -30,7 +30,7 @@ nav a {
     display: grid;
     /* Creates 2 columns: Left is 30% width, Right fills the remaining space */
     grid-template-columns: 40% 1fr; 
-    gap: 20px;
+    gap: 15px;
     width: 100%;
 }
 
@@ -40,7 +40,7 @@ nav a {
 }
 
 /* Responsive design: Stack into 1 column on small screens */
-@media (max-width: 900px) {
+@media (max-width: 750px) {
     .grid-container {
         grid-template-columns: 1fr;
     }
