@@ -1,12 +1,16 @@
 body {
     /* font-family: Georgia, serif; */
     max-width: 750px;
-    margin: auto;
+    /* margin: auto; */
     padding: 30px;
-    justify-content: center;
     /* line-height: 1.7;
     color: #222;
     background: white; */
+    display: flex;
+    justify-content: center; /* Horizontally centers content */
+    align-items: center;     /* Vertically centers content */
+    min-height: 100vh;       /* Forces body to take full screen height */
+    margin: 0;               /* Removes default browser spacing */
 }
 
 header {
