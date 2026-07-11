@@ -2,15 +2,13 @@ body {
     /* font-family: Georgia, serif; */
     max-width: 750px;
     /* margin: auto; */
-    padding: 30px;
+    /* padding: 30px; */
     /* line-height: 1.7;
     color: #222;
     background: white; */
-    display: flex;
-    justify-content: center; /* Horizontally centers content */
-    align-items: center;     /* Vertically centers content */
-    min-height: 100vh;       /* Forces body to take full screen height */
-    margin: 0;               /* Removes default browser spacing */
+    margin-left: auto;       /* Evenly distributes empty space */
+    margin-right: auto;
+    width: 90%; 
 }
 
 header {
