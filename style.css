@@ -1,4 +1,4 @@
-body {
+/* body {
     /* font-family: Georgia, serif; */
     max-width: 900px;
     margin: auto;
@@ -6,7 +6,7 @@ body {
     line-height: 1.7;
     color: #222;
     background: white;
-}
+} */
 
 header {
     display: flex;
