@@ -1,12 +1,12 @@
-/* body {
+body {
     /* font-family: Georgia, serif; */
-    max-width: 900px;
+    max-width: 500px;
     margin: auto;
-    padding: 40px;
+    /* padding: 40px;
     line-height: 1.7;
     color: #222;
-    background: white;
-} */
+    background: white; */
+}
 
 header {
     display: flex;
