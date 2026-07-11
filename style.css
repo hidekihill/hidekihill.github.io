@@ -3,6 +3,7 @@ body {
     max-width: 750px;
     margin: auto;
     padding: 30px;
+    justify-content: center;
     /* line-height: 1.7;
     color: #222;
     background: white; */
