@@ -38,6 +38,14 @@ nav a {
     padding: 20px;
 }
 
+.grid-container2 {
+    display: grid;
+    /* Creates 2 columns: Left is 30% width, Right fills the remaining space */
+    grid-template-columns: 20% 1fr; 
+    gap: 15px;
+    width: 100%;
+}
+
 /* Responsive design: Stack into 1 column on small screens */
 @media (max-width: 750px) {
     .grid-container {
