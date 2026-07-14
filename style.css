@@ -28,7 +28,7 @@ nav a {
 .grid-container {
     display: grid;
     /* Creates 2 columns: Left is 30% width, Right fills the remaining space */
-    grid-template-columns: 40% 1fr; 
+    grid-template-columns: 30% 1fr; 
     gap: 15px;
     width: 100%;
 }
@@ -44,6 +44,9 @@ nav a {
     grid-template-columns: 20% 1fr; 
     gap: 15px;
     width: 100%;
+}
+.grid-column {
+    padding: 20px;
 }
 
 /* Responsive design: Stack into 1 column on small screens */
