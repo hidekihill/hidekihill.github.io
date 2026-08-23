@@ -7,6 +7,10 @@ body {
     background: white;
 }
 
+footer {
+    margin-bottom: 50px;
+}
+
 header {
     display: flex;
     justify-content: space-between;
