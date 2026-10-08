@@ -35,5 +35,19 @@
         </main>
         </div>
     </div>
+    <footer>
+      <div style="text-align: right;">
+      <p><span id="visits">0</span> visits.</p>
+      </div>
+    </footer>
+    
+    <script>
+      function displayVisits(response) {
+          document.getElementById('visits').innerText = response.value;
+      }
+    </script>
+      
+    <script async src="https://hidekihill.github.io"></script>
+
     </body>
 </html>
